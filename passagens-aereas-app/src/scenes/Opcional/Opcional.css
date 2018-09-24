@@ -1,0 +1,50 @@
+.containerOpcional {
+    height: auto;
+    width: 60vw;
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 18px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.opcionais {
+    width: 100%;
+    height: auto;
+    margin-top: 70px;
+}
+
+.panel-heading {
+    margin-top: 50px;
+    background-color: transparent;
+}
+
+.listaOpcionais {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    margin-top: 18px;
+    margin-bottom: 38px;
+}
+
+.formularioOpcional {
+    width: 80%;
+    margin-top: 18px;
+    margin-left: 35px;
+}
+
+.formularioOpcional, .formularioAlterarOpcional {
+    width: 80%;
+    margin-top: 18px;
+    margin-left: 35px;
+}
+
+.modal-content {
+    margin: 0;
+}
+
+.form-control {
+    border-radius: 0;
+    margin-bottom: -20px;
+    height: auto;
+}

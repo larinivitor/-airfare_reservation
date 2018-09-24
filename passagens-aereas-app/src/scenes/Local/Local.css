@@ -1,0 +1,17 @@
+.valoresClasse{
+    padding-top: 5px;
+    margin: 2px;
+    color: white;
+    font-weight: 400;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.inputClasse{
+    width: 80%;
+}
+.valoresClasse label{
+    margin-bottom: -10px;
+}

@@ -1,0 +1,9 @@
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.Dominio\bin\Debug\netstandard2.0\PassagensAereas.Dominio.deps.json
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.Dominio\bin\Debug\netstandard2.0\PassagensAereas.Dominio.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.Dominio\bin\Debug\netstandard2.0\PassagensAereas.Dominio.pdb
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.Dominio\obj\Debug\netstandard2.0\PassagensAereas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.Dominio\obj\Debug\netstandard2.0\PassagensAereas.Dominio.AssemblyInfoInputs.cache
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.Dominio\obj\Debug\netstandard2.0\PassagensAereas.Dominio.AssemblyInfo.cs
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.Dominio\obj\Debug\netstandard2.0\PassagensAereas.Dominio.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.Dominio\obj\Debug\netstandard2.0\PassagensAereas.Dominio.pdb
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.Dominio\obj\Debug\netstandard2.0\PassagensAereas.Dominio.csprojResolveAssemblyReference.cache

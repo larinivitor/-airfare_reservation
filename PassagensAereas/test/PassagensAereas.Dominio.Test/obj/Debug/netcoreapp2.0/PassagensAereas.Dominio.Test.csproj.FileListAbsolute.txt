@@ -1,0 +1,13 @@
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\bin\Debug\netcoreapp2.0\PassagensAereas.Dominio.Test.deps.json
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\bin\Debug\netcoreapp2.0\PassagensAereas.Dominio.Test.runtimeconfig.json
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\bin\Debug\netcoreapp2.0\PassagensAereas.Dominio.Test.runtimeconfig.dev.json
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\bin\Debug\netcoreapp2.0\PassagensAereas.Dominio.Test.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\bin\Debug\netcoreapp2.0\PassagensAereas.Dominio.Test.pdb
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\obj\Debug\netcoreapp2.0\PassagensAereas.Dominio.Test.csproj.CoreCompileInputs.cache
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\obj\Debug\netcoreapp2.0\PassagensAereas.Dominio.Test.AssemblyInfoInputs.cache
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\obj\Debug\netcoreapp2.0\PassagensAereas.Dominio.Test.AssemblyInfo.cs
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\obj\Debug\netcoreapp2.0\PassagensAereas.Dominio.Test.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\test\PassagensAereas.Dominio.Test\obj\Debug\netcoreapp2.0\PassagensAereas.Dominio.Test.pdb

@@ -1,0 +1,15 @@
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\bin\Debug\netcoreapp2.0\PassagensAereas.WebApi.deps.json
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\bin\Debug\netcoreapp2.0\PassagensAereas.WebApi.runtimeconfig.json
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\bin\Debug\netcoreapp2.0\PassagensAereas.WebApi.runtimeconfig.dev.json
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\bin\Debug\netcoreapp2.0\PassagensAereas.WebApi.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\bin\Debug\netcoreapp2.0\PassagensAereas.WebApi.pdb
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\bin\Debug\netcoreapp2.0\PassagensAereas.Dominio.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\bin\Debug\netcoreapp2.0\PassagensAereas.Infra.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\bin\Debug\netcoreapp2.0\PassagensAereas.Dominio.pdb
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\bin\Debug\netcoreapp2.0\PassagensAereas.Infra.pdb
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\obj\Debug\netcoreapp2.0\PassagensAereas.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\obj\Debug\netcoreapp2.0\PassagensAereas.WebApi.AssemblyInfoInputs.cache
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\obj\Debug\netcoreapp2.0\PassagensAereas.WebApi.AssemblyInfo.cs
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\obj\Debug\netcoreapp2.0\PassagensAereas.WebApi.dll
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\obj\Debug\netcoreapp2.0\PassagensAereas.WebApi.pdb
+C:\Users\luis.beck\Desktop\luis-beck\DotNet\TCCPassagensAereas\PassagensAereas\src\PassagensAereas.WebApi\obj\Debug\netcoreapp2.0\PassagensAereas.WebApi.csprojResolveAssemblyReference.cache
